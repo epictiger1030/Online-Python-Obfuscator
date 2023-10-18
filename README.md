@@ -7,10 +7,10 @@
 </h1>
 
 <p align="center">
-  <a href="#dark-about">About</a> &#xa0; | &#xa0; 
-  <a href="#rocket-features">Features</a> &#xa0; | &#xa0;
-  <a href="#question-how to use?">Technologies</a> &#xa0; | &#xa0;
-  <a href="#sparkles-credits">Requirements</a> &#xa0; | &#xa0;
+  <a>About</a> &#xa0; | &#xa0; 
+  <a>Features</a> &#xa0; | &#xa0;
+  <a>Technologies</a> &#xa0; | &#xa0;
+  <a>Requirements</a> &#xa0; | &#xa0;
 </p>
 
 ### :dart: About ###
