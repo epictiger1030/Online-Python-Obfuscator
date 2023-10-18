@@ -1,4 +1,4 @@
 
 <p align = "center">
-    <img src = "Image 1.png" alt="Logo">
+    <img src = "Img1.png" alt="Banner">
 </p>
