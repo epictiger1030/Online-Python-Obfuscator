@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">
-    <a href="https://freecodingtools.org/py-obfuscator">Secure Your Python Code Today!</a>
+    <a href="https://freecodingtools.org/py-obfuscator">View Obfuscator</a>
 </h4>
 
 ### :dart: About ###
