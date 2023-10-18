@@ -25,8 +25,10 @@ You need something which will not only obfuscate your code, but randomise and co
 
 ### 🔥 Demo ###
 
+# Before
+
 ```py
-print
+print("A")
 ```
 
 ### ❓ How to Use? ###
