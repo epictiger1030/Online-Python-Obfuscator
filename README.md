@@ -10,14 +10,14 @@ You need something which will not only obfuscate your code, but randomise and co
 
 ### :fire: Features ###
 
-✔️ Variable Name Obfuscation
-✔️ Function Name Obfuscation
-✔️ String Encryption
-✔️ Multi-Layer Encoding
-✔️ Remove Comments & Docstrings
-✔️ Anti-Tampering
-✔️ Support for all Python versions
-✔️ Support for cross-platform scripts
+✔️ Variable Name Obfuscation\
+✔️ Function Name Obfuscation\
+✔️ String Encryption\
+✔️ Multi-Layer Encoding\
+✔️ Remove Comments & Docstrings\
+✔️ Anti-Tampering\
+✔️ Support for all Python versions\
+✔️ Support for cross-platform scripts\
 
 ### ❓ How to Use? ###
 
