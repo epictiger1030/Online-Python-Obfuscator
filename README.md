@@ -6,13 +6,6 @@
     Online Python Obfuscator
 </h1>
 
-<p align="center">
-  <a>About</a> &#xa0; | &#xa0; 
-  <a>Features</a> &#xa0; | &#xa0;
-  <a>Technologies</a> &#xa0; | &#xa0;
-  <a>Requirements</a> &#xa0; | &#xa0;
-</p>
-
 ### :dart: About ###
 
 When trying to find Python obfuscators online you may have come across tools like pyarmor, or pyminifier. These obfuscators do not actually obfuscate the code correctly, and the source code along with all of the variable names can be fully restored. Pyarmor specifically can be bypassed by injecting a DLL file which dumps the Python process memory in realtime, bypassing all of the script encryption.
@@ -29,6 +22,12 @@ You need something which will not only obfuscate your code, but randomise and co
 ✔️ Anti-Tampering\
 ✔️ Support for all Python versions\
 ✔️ Support for cross-platform scripts\
+
+### 🔥 Demo ###
+
+```py
+print
+```
 
 ### ❓ How to Use? ###
 
