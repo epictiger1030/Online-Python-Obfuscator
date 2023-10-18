@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    [Online Python Obfuscator](https://freecodingtools.org/py-obfuscator)
+    Online Python Obfuscator
 </h1>
 
 ### :dart: About ###
@@ -24,6 +24,8 @@ You need something which will not only obfuscate your code, but randomise and co
 ✔️ Support for cross-platform scripts\
 
 ### 🔥 Demo ###
+
+[Try it yourself](https://freecodingtools.org/py-obfuscator)
 
 #### Before Obfuscation ####
 
